@@ -4,20 +4,8 @@
   "name": "Genre Collections",
   "description": "Custom genre-based movie collections",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Emoji_u1f3ac.svg/1024px-Emoji_u1f3ac.svg.png",
-  "resources": [
-    {
-      "name": "catalog",
-      "types": [
-        "movie"
-      ],
-      "idPrefixes": [
-        "tt"
-      ]
-    }
-  ],
-  "types": [
-    "movie"
-  ],
+  "resources": ["catalog"],
+  "types": ["movie"],
   "catalogs": [
     {
       "type": "movie",
@@ -28,11 +16,15 @@
     {
       "type": "movie",
       "id": "TrippyWeird",
-      "name": "Trippyweird",
+      "name": "Trippy Weird",
       "extra": []
     }
   ],
-  "idPrefixes": [
-    "tt"
-  ]
+  "idPrefixes": ["tt"],
+  "catalogUrls": {
+    "movie": {
+      "Mindfuck": "https://stlstreamdevice.github.io/CombinedLists/Mindfuck.json",
+      "TrippyWeird": "https://stlstreamdevice.github.io/CombinedLists/TrippyWeird.json"
+    }
+  }
 }
