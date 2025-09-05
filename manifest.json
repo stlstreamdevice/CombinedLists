@@ -16,6 +16,18 @@
       "id": "TrippyWeird LARGE",
       "name": "TrippyWeird LARGE",
       "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "Documentaries",
+      "name": "Documentaries",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "Horror LARGE",
+      "name": "Horror LARGE",
+      "extra": []
     }
   ],
   "idPrefixes": [
@@ -23,7 +35,9 @@
   ],
   "catalogUrls": {
     "movie": {
-      "TrippyWeird LARGE": "./catalog/movie/TrippyWeird LARGE.json"
+      "TrippyWeird LARGE": "./catalog/movie/TrippyWeird LARGE.json",
+      "Documentaries": "./catalog/movie/Documentaries.json",
+      "Horror LARGE": "./catalog/movie/Horror LARGE.json"
     }
   }
 }
