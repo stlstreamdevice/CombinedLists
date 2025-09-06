@@ -1,0 +1,1588 @@
+{
+  "metas": [
+    {
+      "id": "tt17526714",
+      "type": "movie",
+      "name": "The Substance",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w500/evdF1vmLzuzH8EFblqAXBXWRGSi.jpg",
+      "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+      "rating": 7.1
+    },
+    {
+      "id": "tt28015403",
+      "type": "movie",
+      "name": "Heretic",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w500/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+      "description": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+      "rating": 6.978
+    },
+    {
+      "id": "tt8772262",
+      "type": "movie",
+      "name": "Midsommar",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "description": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+      "rating": 7.158
+    },
+    {
+      "id": "tt0090756",
+      "type": "movie",
+      "name": "Blue Velvet",
+      "year": "1986",
+      "poster": "https://image.tmdb.org/t/p/w500/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg",
+      "description": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+      "rating": 7.6
+    },
+    {
+      "id": "tt10640346",
+      "type": "movie",
+      "name": "Babylon",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "description": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
+      "rating": 7.379
+    },
+    {
+      "id": "tt32768323",
+      "type": "movie",
+      "name": "The Assessment",
+      "year": "2025",
+      "poster": "https://image.tmdb.org/t/p/w500/o1K7be85FAauSbVPzCQ0GjOXUqu.jpg",
+      "description": "In a climate change-ravaged world, a utopian society optimizes life, including parenthood assessments. A successful couple faces scrutiny by an evaluator over seven days to determine their fitness for childbearing.",
+      "rating": 6.814
+    },
+    {
+      "id": "tt5727208",
+      "type": "movie",
+      "name": "Uncut Gems",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w500/sg0xxJeb3u1C4kAxhSuTwTNpEDt.jpg",
+      "description": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+      "rating": 7.159
+    },
+    {
+      "id": "tt3464902",
+      "type": "movie",
+      "name": "The Lobster",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w500/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "description": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+      "rating": 7.041
+    },
+    {
+      "id": "tt2872718",
+      "type": "movie",
+      "name": "Nightcrawler",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "description": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+      "rating": 7.705
+    },
+    {
+      "id": "tt2866360",
+      "type": "movie",
+      "name": "Coherence",
+      "year": "2013",
+      "poster": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+      "description": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+      "rating": 7.221
+    },
+    {
+      "id": "tt7984734",
+      "type": "movie",
+      "name": "The Lighthouse",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg",
+      "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+      "rating": 7.498
+    },
+    {
+      "id": "tt7939766",
+      "type": "movie",
+      "name": "I'm Thinking of Ending Things",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w500/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "description": "Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.",
+      "rating": 6.6
+    },
+    {
+      "id": "tt12747748",
+      "type": "movie",
+      "name": "Leave the World Behind",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+      "description": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices—and two strangers appear at their door.",
+      "rating": 6.383
+    },
+    {
+      "id": "tt1259521",
+      "type": "movie",
+      "name": "The Cabin in the Woods",
+      "year": "2012",
+      "poster": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+      "description": "A group of teens journey to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a worldwide conspiracy where all horror movie clichés are revealed to be part of an elaborate sacrifice ritual.",
+      "rating": 6.638
+    },
+    {
+      "id": "tt0319061",
+      "type": "movie",
+      "name": "Big Fish",
+      "year": "2003",
+      "poster": "https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+      "description": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+      "rating": 7.758
+    },
+    {
+      "id": "tt5715874",
+      "type": "movie",
+      "name": "The Killing of a Sacred Deer",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+      "description": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+      "rating": 7.016
+    },
+    {
+      "id": "tt0177789",
+      "type": "movie",
+      "name": "Galaxy Quest",
+      "year": "1999",
+      "poster": "https://image.tmdb.org/t/p/w500/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+      "description": "For four years, the courageous crew of the NSEA protector - \"Commander Peter Quincy Taggart\", \"Lt. Tawny Madison and \"Dr.Lazarus\" - set off on a thrilling and often dangerous mission in space...and then their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director and no clue, the actors must turn in the performances of their lives.",
+      "rating": 7.07
+    },
+    {
+      "id": "tt0268126",
+      "type": "movie",
+      "name": "Adaptation.",
+      "year": "2002",
+      "poster": "https://image.tmdb.org/t/p/w500/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+      "description": "Charlie Kaufman is a confused L.A. screenwriter overwhelmed by feelings of inadequacy, sexual frustration, self-loathing, and by the screenwriting ambitions of his freeloading twin brother Donald. While struggling to adapt \"The Orchid Thief,\" by Susan Orlean, Kaufman's life spins from pathetic to bizarre. The lives of Kaufman, Orlean's book, become strangely intertwined as each one's search for passion collides with the others'.",
+      "rating": 7.356
+    },
+    {
+      "id": "tt3748172",
+      "type": "movie",
+      "name": "Gerald's Game",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w500/32dippiypDdaKv7XFEfUlQ7kPup.jpg",
+      "description": "When her husband's sex game goes wrong, Jessie (who is handcuffed to a bed in a remote lake house) faces warped visions, dark secrets and a dire choice.",
+      "rating": 6.401
+    },
+    {
+      "id": "tt1019452",
+      "type": "movie",
+      "name": "A Serious Man",
+      "year": "2009",
+      "poster": "https://image.tmdb.org/t/p/w500/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+      "description": "It is 1967, and Larry Gopnik, a physics professor at a quiet Midwestern university, has just been informed by his wife Judith that she is leaving him. She has fallen in love with one of his more pompous acquaintances Sy Ableman.",
+      "rating": 6.716
+    },
+    {
+      "id": "tt2494362",
+      "type": "movie",
+      "name": "Bone Tomahawk",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w500/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg",
+      "description": "During a shootout in a saloon, Sheriff Hunt injures a suspicious stranger. The doctor's assistant, wife of the local foreman, tends to him in prison. That night, the town is attacked and they both disappear—only the arrow of a cannibal tribe is found. Hunt and a few of his men go in search of the prisoner and the foreman's wife.",
+      "rating": 6.872
+    },
+    {
+      "id": "tt21942866",
+      "type": "movie",
+      "name": "Dream Scenario",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w500/2RSMu2iMDCdMKmvBWWvcmE8vjMj.jpg",
+      "description": "Hapless family man Paul Matthews finds his life turned upside down when millions of strangers suddenly start seeing him in their dreams. But when his nighttime appearances take a nightmarish turn, Paul is forced to navigate his newfound stardom.",
+      "rating": 6.656
+    },
+    {
+      "id": "tt0414993",
+      "type": "movie",
+      "name": "The Fountain",
+      "year": "2006",
+      "poster": "https://image.tmdb.org/t/p/w500/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+      "description": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+      "rating": 6.907
+    },
+    {
+      "id": "tt1465522",
+      "type": "movie",
+      "name": "Tucker and Dale vs. Evil",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w500/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+      "description": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+      "rating": 7.4
+    },
+    {
+      "id": "tt0485947",
+      "type": "movie",
+      "name": "Mr. Nobody",
+      "year": "2009",
+      "poster": "https://image.tmdb.org/t/p/w500/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg",
+      "description": "Nemo Nobody leads an ordinary existence with his wife and 3 children; one day, he wakes up as a mortal centenarian in the year 2092.",
+      "rating": 7.805
+    },
+    {
+      "id": "tt0088846",
+      "type": "movie",
+      "name": "Brazil",
+      "year": "1985",
+      "poster": "https://image.tmdb.org/t/p/w500/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+      "description": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+      "rating": 7.668
+    },
+    {
+      "id": "tt11291274",
+      "type": "movie",
+      "name": "The Unbearable Weight of Massive Talent",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w500/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+      "description": "Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 million offer to attend the birthday of a dangerous superfan. Things take a wildly unexpected turn when Cage is recruited by a CIA operative and forced to live up to his own legend, channeling his most iconic and beloved on-screen characters in order to save himself and his loved ones.",
+      "rating": 6.791
+    },
+    {
+      "id": "tt0088680",
+      "type": "movie",
+      "name": "After Hours",
+      "year": "1985",
+      "poster": "https://image.tmdb.org/t/p/w500/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "description": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+      "rating": 7.498
+    },
+    {
+      "id": "tt10168670",
+      "type": "movie",
+      "name": "Bones and All",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w500/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+      "description": "Abandoned by her father, a young woman embarks on a thousand-mile odyssey through the backroads of America where she meets a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
+      "rating": 7.042
+    },
+    {
+      "id": "tt0276919",
+      "type": "movie",
+      "name": "Dogville",
+      "year": "2003",
+      "poster": "https://image.tmdb.org/t/p/w500/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "description": "A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town, she learns that their support has a price.",
+      "rating": 7.765
+    },
+    {
+      "id": "tt17076046",
+      "type": "movie",
+      "name": "Weird: The Al Yankovic Story",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w500/qcj2z13G0KjaIgc01ifiUKu7W07.jpg",
+      "description": "Exploring every facet of ‘Weird Al’ Yankovic’s life, from his meteoric rise to fame with early hits like ‘Eat It’ and ‘Like a Surgeon’ to his torrid celebrity love affairs and famously depraved lifestyle, this biopic takes audiences on a truly unbelievable journey through Yankovic’s life and career, from gifted child prodigy to the greatest musical legend of all time.",
+      "rating": 6.732
+    },
+    {
+      "id": "tt1488589",
+      "type": "movie",
+      "name": "Guillermo del Toro's Pinocchio",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "description": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+      "rating": 8.048
+    },
+    {
+      "id": "tt0147612",
+      "type": "movie",
+      "name": "Happiness",
+      "year": "1998",
+      "poster": "https://image.tmdb.org/t/p/w500/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+      "description": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+      "rating": 7.449
+    },
+    {
+      "id": "tt1714915",
+      "type": "movie",
+      "name": "Only Lovers Left Alive",
+      "year": "2013",
+      "poster": "https://image.tmdb.org/t/p/w500/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg",
+      "description": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+      "rating": 7.214
+    },
+    {
+      "id": "tt5688932",
+      "type": "movie",
+      "name": "Sorry to Bother You",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+      "description": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+      "rating": 6.797
+    },
+    {
+      "id": "tt1441326",
+      "type": "movie",
+      "name": "Martha Marcy May Marlene",
+      "year": "2011",
+      "poster": "https://image.tmdb.org/t/p/w500/oDPZ6lch424c1BVZ7jP5tSwrJ6X.jpg",
+      "description": "After several years of living with a cult, Martha finally escapes and calls her estranged sister, Lucy, for help. Martha finds herself at the quiet Connecticut home Lucy shares with her new husband, Ted, but the memories of what she experienced in the cult make peace hard to find. As flashbacks continue to torment her, Martha fails to shake a terrible sense of dread, especially in regard to the cult's manipulative leader.",
+      "rating": 6.596
+    },
+    {
+      "id": "tt15364972",
+      "type": "movie",
+      "name": "Sanctuary",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w500/yGQAZupyZgT2ESbBSMZ9R0OBToo.jpg",
+      "description": "Confined to a claustrophobic hotel room, the heir to a hotel empire and the dominatrix who has primed him for success become locked in a battle of wits and wills as he tries to end his relationship with her.",
+      "rating": 6.055
+    },
+    {
+      "id": "tt0805564",
+      "type": "movie",
+      "name": "Lars and the Real Girl",
+      "year": "2007",
+      "poster": "https://image.tmdb.org/t/p/w500/nkAt4a7KIPc7Fi1BhxNHhYYbe2b.jpg",
+      "description": "Extremely shy Lars finds it impossible to make friends or socialize. His brother and sister-in-law worry about him, so when he announces that he has a girlfriend he met on the Internet, they are overjoyed. But Lars' new lady is a life-size plastic woman. On the advice of a doctor, his family and the rest of the community go along with his delusion.",
+      "rating": 7.195
+    },
+    {
+      "id": "tt0091419",
+      "type": "movie",
+      "name": "Little Shop of Horrors",
+      "year": "1986",
+      "poster": "https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+      "description": "Seymour Krelborn is a nerdy orphan working at Mushnik's; a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for his supper.",
+      "rating": 6.952
+    },
+    {
+      "id": "tt3521126",
+      "type": "movie",
+      "name": "The Disaster Artist",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w500/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg",
+      "description": "An aspiring actor in Hollywood meets an enigmatic stranger by the name of Tommy Wiseau, the meeting leads the actor down a path nobody could have predicted; creating the worst movie ever made.",
+      "rating": 7.107
+    },
+    {
+      "id": "tt6265828",
+      "type": "movie",
+      "name": "A Ghost Story",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w500/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+      "description": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
+      "rating": 7.087
+    },
+    {
+      "id": "tt3312830",
+      "type": "movie",
+      "name": "Youth",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w500/ceRN51oeadmccAvqvDxpnnNRcLU.jpg",
+      "description": "Two lifelong friends bond whilst vacationing in a luxury Swiss Alps lodge as they ponder retirement. While Fred has no plans to resume his musical career despite the urging of his loving daughter Lena, Mick is intent on finishing the screenplay for what may be his last important film for his muse Brenda. And where will inspiration lead their younger friend Jimmy, an actor grasping to make sense of his next performance?",
+      "rating": 6.898
+    },
+    {
+      "id": "tt0094964",
+      "type": "movie",
+      "name": "Dead Ringers",
+      "year": "1988",
+      "poster": "https://image.tmdb.org/t/p/w500/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg",
+      "description": "Elliot, a successful gynecologist, works at the same practice as his identical twin, Beverly. Elliot is attracted to many of his patients and has affairs with them. When he inevitably loses interest, he will give the woman over to Beverly, the meeker of the two, without the woman knowing the difference. Beverly falls hard for one of the patients, Claire, but when she inadvertently deceives him, he slips into a state of madness.",
+      "rating": 7.131
+    },
+    {
+      "id": "tt7014006",
+      "type": "movie",
+      "name": "Eighth Grade",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w500/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "description": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.",
+      "rating": 7.161
+    },
+    {
+      "id": "tt12818328",
+      "type": "movie",
+      "name": "Hundreds of Beavers",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w500/qgXS9HrYaYDnILeXebatCbtX9IP.jpg",
+      "description": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers.",
+      "rating": 7.254
+    },
+    {
+      "id": "tt4034354",
+      "type": "movie",
+      "name": "Swiss Army Man",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w500/8pxn8CQ6SD6tly75lrKw08wfZKv.jpg",
+      "description": "Alone on a tiny deserted island, Hank has given up all hope of ever making it home again. But one day everything changes when a dead body washes ashore, and he soon realizes it may be his last opportunity to escape certain death. Armed with his new “friend” and an unusual bag of tricks, the duo go on an epic adventure to bring Hank back to the woman of his dreams.",
+      "rating": 6.929
+    },
+    {
+      "id": "tt15428940",
+      "type": "movie",
+      "name": "Jules",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w500/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg",
+      "description": "A flying saucer lands in the backyard of an elderly suburbanite with memory problems, who forms a bond with the scared alien inside.",
+      "rating": 7.228
+    },
+    {
+      "id": "tt0243017",
+      "type": "movie",
+      "name": "Waking Life",
+      "year": "2001",
+      "poster": "https://image.tmdb.org/t/p/w500/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "description": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+      "rating": 7.47
+    },
+    {
+      "id": "tt0115734",
+      "type": "movie",
+      "name": "Bottle Rocket",
+      "year": "1996",
+      "poster": "https://image.tmdb.org/t/p/w500/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg",
+      "description": "Upon his release from a mental hospital following a nervous breakdown, the directionless Anthony joins his friend Dignan, who seems far less sane than the former. Dignan has hatched a harebrained scheme for an as-yet-unspecified crime spree that somehow involves his former boss, the (supposedly) legendary Mr. Henry.",
+      "rating": 6.694
+    },
+    {
+      "id": "tt2756032",
+      "type": "movie",
+      "name": "The One I Love",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w500/ewsYTI6KKQw3IDPFmVVbHq89kxv.jpg",
+      "description": "Ethan and Sophie are a married couple on the brink of separation when, at the urging of their therapist, they decide to salvage their relationship by escaping to a beautiful vacation house for the weekend.",
+      "rating": 6.859
+    },
+    {
+      "id": "tt2401878",
+      "type": "movie",
+      "name": "Anomalisa",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w500/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg",
+      "description": "An inspirational speaker becomes reinvigorated after meeting a lively woman who shakes up his mundane existence.",
+      "rating": 7.1
+    },
+    {
+      "id": "tt15339456",
+      "type": "movie",
+      "name": "Marcel the Shell with Shoes On",
+      "year": "2022",
+      "poster": "https://image.tmdb.org/t/p/w500/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+      "description": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. When a documentarian discovers them amongst the clutter of his Airbnb, his resulting short film brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+      "rating": 7.676
+    },
+    {
+      "id": "tt0100024",
+      "type": "movie",
+      "name": "Life Is Sweet",
+      "year": "1990",
+      "poster": "https://image.tmdb.org/t/p/w500/zdkKNQzzwyciP9vAohAPFZdujlA.jpg",
+      "description": "Just north of London live Wendy, Andy, and their twenty-something twins, Natalie and Nicola. Wendy clerks in a shop, Andy is a cook who forever puts off home remodeling projects, Natalie is a plumber and Nicola is jobless. This film is about how they interact and play out family, conflict and love.",
+      "rating": 7.003
+    },
+    {
+      "id": "tt0094336",
+      "type": "movie",
+      "name": "Withnail & I",
+      "year": "1987",
+      "poster": "https://image.tmdb.org/t/p/w500/i18cIp8A10A2JgByrfA9oIC9299.jpg",
+      "description": "Two out-of-work actors -- the anxious, luckless Marwood and his acerbic, alcoholic friend, Withnail -- spend their days drifting between their squalid flat, the unemployment office and the pub. When they take a holiday \"by mistake\" at the country house of Withnail's flamboyantly gay uncle, Monty, they encounter the unpleasant side of the English countryside: tedium, terrifying locals and torrential rain.",
+      "rating": 7.3
+    },
+    {
+      "id": "tt4353250",
+      "type": "movie",
+      "name": "The Last Black Man in San Francisco",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w500/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+      "description": "Jimmie Fails dreams of reclaiming the Victorian home his grandfather built in the heart of San Francisco. Joined on his quest by his best friend Mont, Jimmie searches for belonging in a rapidly changing city that seems to have left them behind.",
+      "rating": 7.021
+    },
+    {
+      "id": "tt0114906",
+      "type": "movie",
+      "name": "Welcome to the Dollhouse",
+      "year": "1995",
+      "poster": "https://image.tmdb.org/t/p/w500/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+      "description": "An unattractive 7th grader struggles to cope with suburban life as the middle child with inattentive parents and bullies at school.",
+      "rating": 7.109
+    },
+    {
+      "id": "tt0098253",
+      "type": "movie",
+      "name": "Santa Sangre",
+      "year": "1989",
+      "poster": "https://image.tmdb.org/t/p/w500/6VTra0NR4ygRnq3bD922I4rU0Mq.jpg",
+      "description": "A former circus artist escapes from a mental hospital to rejoin his mother – the leader of a strange religious cult – and is forced to enact brutal murders in her name.",
+      "rating": 7.141
+    },
+    {
+      "id": "tt0097108",
+      "type": "movie",
+      "name": "The Cook, the Thief, His Wife & Her Lover",
+      "year": "1989",
+      "poster": "https://image.tmdb.org/t/p/w500/fNkl7o1VQQqy1nEX9x56CDHULmr.jpg",
+      "description": "The wife of an abusive criminal finds solace in the arms of a kind regular guest in her husband's restaurant.",
+      "rating": 7.333
+    },
+    {
+      "id": "tt0109759",
+      "type": "movie",
+      "name": "Exotica",
+      "year": "1994",
+      "poster": "https://image.tmdb.org/t/p/w500/pWcJdcIHjL3P6NaEJKeV6ONfAMV.jpg",
+      "description": "In the upscale Toronto strip club Exotica, dancer Christina is visited nightly by the obsessive Francis, a depressed tax auditor. Her ex-boyfriend, the club's MC, Eric, still jealously pines for her even as he introduces her onstage, but Eric is having his own relationship problems with the club's female owner. Thomas, a mysterious pet-shop owner, is about to become unexpectedly involved in their lives.",
+      "rating": 6.6
+    },
+    {
+      "id": "tt30319503",
+      "type": "movie",
+      "name": "Dìdi (弟弟)",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w500/3UCTNaZgxW6BbeHMMTe6uL07MpV.jpg",
+      "description": "In 2008, during the last month of summer before high school begins, an impressionable 13-year-old Taiwanese American boy learns what his family can't teach him: how to skate, how to flirt, and how to love your mom.",
+      "rating": 7.155
+    },
+    {
+      "id": "tt7738450",
+      "type": "movie",
+      "name": "Thunder Road",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w500/ynljTdiGVUCJJ6THSZi22SBoQAR.jpg",
+      "description": "A police officer faces a personal meltdown following a divorce and the death of his mother.",
+      "rating": 6.795
+    },
+    {
+      "id": "tt0119349",
+      "type": "movie",
+      "name": "The Ice Storm",
+      "year": "1997",
+      "poster": "https://image.tmdb.org/t/p/w500/3a6uLta7K8Dzojps4RoJAPHD0km.jpg",
+      "description": "In the weekend after thanksgiving 1973 the Hood family is skidding out of control. Then an ice storm hits, the worst in a century.",
+      "rating": 6.9
+    },
+    {
+      "id": "tt8399664",
+      "type": "movie",
+      "name": "Babyteeth",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w500/aINpljdt3VVMrCLtJW4BektwYOp.jpg",
+      "description": "A terminally ill teen upsets her parents when she falls in love with a small-time drug dealer.",
+      "rating": 6.884
+    },
+    {
+      "id": "tt0415978",
+      "type": "movie",
+      "name": "Me and You and Everyone We Know",
+      "year": "2005",
+      "poster": "https://image.tmdb.org/t/p/w500/hrj9VsInHnqSDBhEc2FvY0qd79F.jpg",
+      "description": "Single dad Richard meets Christine, a starving artist who moonlights as a cabbie. They awkwardly attempt to start a romance, but Richard’s divorce has left him emotionally damaged. Meanwhile, Richard’s sons—one a teenager, the other 6-years-old—take part in clumsy experiments with the opposite sex.",
+      "rating": 7.0
+    },
+    {
+      "id": "tt0101829",
+      "type": "movie",
+      "name": "Europa",
+      "year": "1991",
+      "poster": "https://image.tmdb.org/t/p/w500/pyFtuYQReoSmhNs55kRJedA5wEJ.jpg",
+      "description": "Just after World War II, an American takes a railway job in Germany, but finds his position politically sensitive with various people trying to use him.",
+      "rating": 7.3
+    },
+    {
+      "id": "tt0089885",
+      "type": "movie",
+      "name": "Re-Animator",
+      "year": "1985",
+      "poster": "https://image.tmdb.org/t/p/w500/1hY6AUl92cL9GdZx031UWFiGETt.jpg",
+      "description": "Conducting clandestine experiments within the morgue at Miskatonic University, scientist Herbert West reveals to a fellow graduate student his groundbreaking work concerning the re-animation of fresh corpses.",
+      "rating": 7.051
+    },
+    {
+      "id": "tt0165832",
+      "type": "movie",
+      "name": "Interstate 60",
+      "year": "2002",
+      "poster": "https://image.tmdb.org/t/p/w500/zZQt29qBWLoVVOo8HEFzFYRAgYQ.jpg",
+      "description": "An aspiring painter meets various characters and learns valuable lessons while traveling across America.",
+      "rating": 7.4
+    },
+    {
+      "id": "tt0100842",
+      "type": "movie",
+      "name": "The Unbelievable Truth",
+      "year": "1990",
+      "poster": "https://image.tmdb.org/t/p/w500/36Gqgyh1nOguvnIH8RBfhj7EpjH.jpg",
+      "description": "After serving time for murder, Josh Hutton returns to his home town where he meets Audry Hugo. No one can remember exactly what Josh did...",
+      "rating": 6.826
+    },
+    {
+      "id": "tt13365876",
+      "type": "movie",
+      "name": "Pinball: The Man Who Saved the Game",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w500/gjGphbx4ZDwAYYWImpY427KGw7B.jpg",
+      "description": "The dramatic comedy is based on the true story of writer and pinball wizard Roger Sharpe, chronicling his journey to overturn New York City’s 35-year ban on pinball.",
+      "rating": 7.1
+    },
+    {
+      "id": "tt0100944",
+      "type": "movie",
+      "name": "The Witches",
+      "year": "1990",
+      "poster": "https://image.tmdb.org/t/p/w500/mPYBjVkeHakkPGY7WaKyyNU4RWm.jpg",
+      "description": "A young boy named Luke and his grandmother go on vacation only to discover their hotel is hosting an international witch convention, where the Grand High Witch is unveiling her master plan to turn all children into mice. Will Luke fall victim to the witches' plot before he can stop them?",
+      "rating": 6.939
+    },
+    {
+      "id": "tt13483866",
+      "type": "movie",
+      "name": "Linoleum",
+      "year": "2023",
+      "poster": "https://image.tmdb.org/t/p/w500/lAdPsBMnP5ctvKavQY9y8JazygK.jpg",
+      "description": "When the host of a failing children’s science show tries to fulfill his childhood dream of becoming an astronaut by building a rocket ship in his garage, a series of bizarre events occur that cause him to question his own reality.",
+      "rating": 6.4
+    },
+    {
+      "id": "tt2414766",
+      "type": "movie",
+      "name": "Frequencies",
+      "year": "2013",
+      "poster": "https://image.tmdb.org/t/p/w500/dDF11WTsDVY1i25VNPbwBjPk6t1.jpg",
+      "description": "The story of the forbidden relationship between a 'low born' boy and a 'high born' girl in an alternate reality where every person's relationships and life worth are determined by their innate 'frequencies'.",
+      "rating": 6.533
+    },
+    {
+      "id": "tt7969836",
+      "type": "movie",
+      "name": "The Twentieth Century",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w500/nyH1a9GLduISbcttUAZakp55MMs.jpg",
+      "description": "Toronto, Canada, 1899. William Lyon Mackenzie King (1874-1950) fervently believes that he is destined to become Prime Minister, but to do so he will first have to fight his personal obsessions and overcome the many obstacles he will encounter on his tortuous path to power.",
+      "rating": 6.125
+    },
+    {
+      "id": "tt1605717",
+      "type": "movie",
+      "name": "Frank",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w500/mGzqs4CHW8LomreoPATnyrTXk7j.jpg",
+      "description": "A young wannabe musician discovers he has bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+      "rating": 6.9
+    },
+    {
+      "id": "tt0092929",
+      "type": "movie",
+      "name": "Drowning by Numbers",
+      "year": "1988",
+      "poster": "https://image.tmdb.org/t/p/w500/bOqbSwGyfLo0PeaTKIwHi7EqCSe.jpg",
+      "description": "Three generations of women who seek to murder their husbands share a solidarity for one another which brings about three copy-cat drownings.",
+      "rating": 7.05
+    },
+    {
+      "id": "tt5710514",
+      "type": "movie",
+      "name": "I Don't Feel at Home in This World Anymore",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w500/1stdUlXBc3nxqhdWvZ6wWWEbCQW.jpg",
+      "description": "When a depressed woman is burglarized, she finds a new sense of purpose by tracking down the thieves alongside her obnoxious neighbor. But they soon find themselves dangerously out of their depth against a pack of degenerate criminals.",
+      "rating": 6.545
+    },
+    {
+      "id": "tt3895884",
+      "type": "movie",
+      "name": "7 Days in Hell",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w500/h5yZf1uHyGstsGoWkjO8W1ccSzn.jpg",
+      "description": "A fictional documentary-style expose on the rivalry between two tennis stars who battled it out in a 1999 match that lasted seven days.",
+      "rating": 6.5
+    },
+    {
+      "id": "tt1704573",
+      "type": "movie",
+      "name": "Bernie",
+      "year": "2012",
+      "poster": "https://image.tmdb.org/t/p/w500/rW5CetooG545jpkPNpD4FjFAXfe.jpg",
+      "description": "In small-town Texas, affable and popular mortician Bernie Tiede strikes up a friendship with Marjorie Nugent, a wealthy widow well known for her sour attitude. When she becomes controlling and abusive, Bernie goes to great lengths to remove himself from her grasp.",
+      "rating": 6.591
+    },
+    {
+      "id": "tt2023690",
+      "type": "movie",
+      "name": "Sightseers",
+      "year": "2012",
+      "poster": "https://image.tmdb.org/t/p/w500/l52cpdZcVkEVTaLqga6xxSQoaKX.jpg",
+      "description": "Chris wants to show girlfriend Tina his world, but events soon conspire against the couple and their dream caravan holiday takes a very wrong turn.",
+      "rating": 6.298
+    },
+    {
+      "id": "tt0106880",
+      "type": "movie",
+      "name": "Fear of a Black Hat",
+      "year": "1994",
+      "poster": "https://image.tmdb.org/t/p/w500/jiJp7B74GBKJK8yCqLjMaFu24nJ.jpg",
+      "description": "Chronicling the controversial career of bad boys N.W.H. (Niggaz With Hats), this uproarious 'mockumentary' lampoons all of hardcore rap's hot-button issues. This underground laugh riot recounts the rise, fall and resurrection of a clueless bunch of would-be rappers, Ice Cold, Tone-Def & Tasty Taste performing as N.W.H.",
+      "rating": 5.979
+    },
+    {
+      "id": "tt0102943",
+      "type": "movie",
+      "name": "Slacker",
+      "year": "1991",
+      "poster": "https://image.tmdb.org/t/p/w500/8cEWYiKJgVWCgO1aOQItifZBQOw.jpg",
+      "description": "Austin, Texas, is an Eden for the young and unambitious, from the enthusiastically eccentric to the dangerously apathetic. Here, the nobly lazy can eschew responsibility in favor of nursing their esoteric obsessions. The locals include a backseat philosopher who passionately expounds on his dream theories to a seemingly comatose cabbie, a young woman who tries to hawk Madonna's Pap test to anyone who will listen and a kindly old anarchist looking for recruits.",
+      "rating": 6.748
+    },
+    {
+      "id": "tt2459156",
+      "type": "movie",
+      "name": "Copenhagen",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w500/1MSFfjvgf9auNANWcaGTvzf1TcW.jpg",
+      "description": "After weeks of traveling through Europe, the immature William finds himself in Copenhagen, the place of his father’s birth. He befriends the youthful Effy, who works in William’s hotel as part of an internship program, and they set off to find William’s last living relative. Effy’s mix of youthful exuberance and wisdom challenges William unlike any  woman ever has. As the attraction builds, he must come to grips with destabilizing elements of his family’s sordid past.",
+      "rating": 6.583
+    },
+    {
+      "id": "tt0469021",
+      "type": "movie",
+      "name": "Alan Partridge: Alpha Papa",
+      "year": "2013",
+      "poster": "https://image.tmdb.org/t/p/w500/oqdSe46XQ9CKcj1WMyfD2LaVoER.jpg",
+      "description": "When famous DJ Alan Partridge’s radio station is taken over by a new media conglomerate, it sets in motion a chain of events which see Alan having to work with the police to defuse a potentially violent siege.",
+      "rating": 6.635
+    },
+    {
+      "id": "tt2872462",
+      "type": "movie",
+      "name": "Mistress America",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w500/1Y9rlzMIfzwjKI6eaCEV9J2eqfH.jpg",
+      "description": "A college freshman cures her disappointment and loneliness by allowing herself to be pulled into the wacky schemes of her future stepsister.",
+      "rating": 6.525
+    },
+    {
+      "id": "tt7339248",
+      "type": "movie",
+      "name": "The Art of Self-Defense",
+      "year": "2019",
+      "poster": "https://image.tmdb.org/t/p/w500/bTq793Qwl3tCXb94zrDPAwppbsC.jpg",
+      "description": "Casey is attacked at random on the street and enlists in a local dojo led by a charismatic and mysterious Sensei in an effort to learn how to defend himself. What he uncovers is a sinister world of fraternity, violence and hypermasculinity and a woman fighting for her place in it.",
+      "rating": 6.57
+    },
+    {
+      "id": "tt14682800",
+      "type": "movie",
+      "name": "Tuesday",
+      "year": "2024",
+      "poster": "https://image.tmdb.org/t/p/w500/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+      "description": "A mother and her teenage daughter must confront Death when it arrives in the form of an astonishing talking bird.",
+      "rating": 6.9
+    },
+    {
+      "id": "tt0088678",
+      "type": "movie",
+      "name": "The Adventures of Mark Twain",
+      "year": "1985",
+      "poster": "https://image.tmdb.org/t/p/w500/wUYyl69qvIZOTuRJnwK07BbYSyy.jpg",
+      "description": "Based on elements from the stories of Mark Twain, this feature-length Claymation fantasy follows the adventures of Tom Sawyer, Becky Thatcher and Huck Finn as they stowaway aboard the interplanetary balloon of Mark Twain. Twain, disgusted with the human race, is intent upon finding Halley's Comet and crashing into it, achieving his \"destiny.\" It's up to Tom, Becky, and Huck to convince him that his judgment is wrong and that he still has much to offer humanity that might make a difference. Their efforts aren't just charitable; if they fail, they will share Twain's fate. Along the way, they use a magical time portal to get a detailed overview of the Twain philosophy, observing the \"historical\" events that inspired his works.",
+      "rating": 6.8
+    },
+    {
+      "id": "tt0462200",
+      "type": "movie",
+      "name": "Black Snake Moan",
+      "year": "2006",
+      "poster": "https://image.tmdb.org/t/p/w500/8Yv7kxsqXSe4ZHl8uJEhmsPjhAP.jpg",
+      "description": "A God-fearing bluesman takes to a wild young woman who, as a victim of childhood sexual abuse, is looking everywhere for love, but never quite finding it.",
+      "rating": 6.846
+    },
+    {
+      "id": "tt2139843",
+      "type": "movie",
+      "name": "Electrick Children",
+      "year": "2012",
+      "poster": "https://image.tmdb.org/t/p/w500/lWszypKqAt91GFtRP2HyUP6UdOq.jpg",
+      "description": "Rachel is a rambunctious girl from a polygamist colony in southern Utah. On Rachel’s 15th birthday, she finds a forbidden cassette tape. Having never seen anything like it before, Rachel plays the cassette tape, and finds glorious rock & roll thereupon. Weeks later, Rachel realizes a miracle has occurred - and the cassette tape must have something to do with it. She leaves her family and runs away to the closest city: Las Vegas. There she searches for the singer of the band on the cassette tape.",
+      "rating": 6.383
+    },
+    {
+      "id": "tt0113429",
+      "type": "movie",
+      "name": "Institute Benjamenta, or This Dream People Call Human Life",
+      "year": "1995",
+      "poster": "https://image.tmdb.org/t/p/w500/sbAYYXZNY6iofJa1EfylnR9MrkC.jpg",
+      "description": "Jakob arrives at the Institute Benjamenta (run by brother and sister Johannes and Lisa Benjamenta) to learn to become a servant. With seven other men, he studies under Lisa: absurd lessons of movement, drawing circles, and servility. He asks for a better room. No other students arrive and none leave for employment. Johannes is unhappy, imperious, and detached from the school's operation. Lisa is beautiful, at first tightly controlled, then on the verge of breakdown. There's a whiff of incest. Jakob is drawn to Lisa, and perhaps she to him. As winter sets in, she becomes catatonic. Things get worse; Johannes notes that all this has happened since Jakob came. Is there any cause and effect?",
+      "rating": 7.745
+    },
+    {
+      "id": "tt8015444",
+      "type": "movie",
+      "name": "Last and First Men",
+      "year": "2020",
+      "poster": "https://image.tmdb.org/t/p/w500/7B9t8lTFCJQ6GVvSbhrbrA7nsVu.jpg",
+      "description": "As the end approaches inexorably, the last humans, living millions of years into the future, send a message to the humanity of the present that is both a plea for help and a warning, but also an epic tale of evolution, decline and hope.",
+      "rating": 6.456
+    },
+    {
+      "id": "tt0356721",
+      "type": "movie",
+      "name": "I ♥ Huckabees",
+      "year": "2004",
+      "poster": "https://image.tmdb.org/t/p/w500/h27ytqXyOrAB6KmRx2abOp8p2W.jpg",
+      "description": "A husband-and-wife team play detective, but not in the traditional sense. Instead, the happy duo helps others solve their existential issues, the kind that keep you up at night, wondering what it all means.",
+      "rating": 6.282
+    },
+    {
+      "id": "tt0045464",
+      "type": "movie",
+      "name": "The 5,000 Fingers of Dr. T.",
+      "year": "1953",
+      "poster": "https://image.tmdb.org/t/p/w500/5sAxThhLhsQSf4mjrIGHqfKlaAy.jpg",
+      "description": "Young Bart Collins lives with his widowed mother Heloise. The major blight on Bart's existence is the hated piano lessons he is forced to endure under the tutelage of the autocratic Dr. Terwilliker. Bart feels that his mother has fallen under Terwilliker's sinister influence, and gripes to visiting plumber August Zabladowski, without much result. While grimly hammering away at his lessons, Bart dozes off and enters a fantastical musical dream.",
+      "rating": 6.085
+    },
+    {
+      "id": "tt0460791",
+      "type": "movie",
+      "name": "The Fall",
+      "year": "2006",
+      "poster": "https://image.tmdb.org/t/p/w500/jUx4P4Q1VsQ07rLz7sOlSyNm4F3.jpg",
+      "description": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
+      "rating": 7.605
+    },
+    {
+      "id": "tt0067992",
+      "type": "movie",
+      "name": "Willy Wonka & the Chocolate Factory",
+      "year": "1971",
+      "poster": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+      "description": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+      "rating": 7.477
+    },
+    {
+      "id": "tt0120601",
+      "type": "movie",
+      "name": "Being John Malkovich",
+      "year": "1999",
+      "poster": "https://image.tmdb.org/t/p/w500/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg",
+      "description": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+      "rating": 7.412
+    },
+    {
+      "id": "tt0445922",
+      "type": "movie",
+      "name": "Across the Universe",
+      "year": "2007",
+      "poster": "https://image.tmdb.org/t/p/w500/447c8Te3DXC46rQvDEixKGO4dS6.jpg",
+      "description": "When young dockworker Jude leaves Liverpool to find his estranged father in the United States, he is swept up by the waves of change that are re-shaping the nation. Jude falls in love with Lucy, who joins the growing anti-war movement. As the body count in Vietnam rises, political tensions at home spiral out of control and the star-crossed lovers find themselves in a psychedelic world gone mad.",
+      "rating": 7.145
+    },
+    {
+      "id": "tt0432283",
+      "type": "movie",
+      "name": "Fantastic Mr. Fox",
+      "year": "2009",
+      "poster": "https://image.tmdb.org/t/p/w500/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+      "description": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+      "rating": 7.814
+    },
+    {
+      "id": "tt0088919",
+      "type": "movie",
+      "name": "Chronos",
+      "year": "1985",
+      "poster": "https://image.tmdb.org/t/p/w500/ciGeeT92K7wMu8wAJntoizImwvG.jpg",
+      "description": "Carefully picked scenes of nature and civilization are viewed at high speed using time-lapse cinematography in an effort to demonstrate the history of various regions.",
+      "rating": 7.513
+    },
+    {
+      "id": "tt2798920",
+      "type": "movie",
+      "name": "Annihilation",
+      "year": "2018",
+      "poster": "https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "description": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+      "rating": 6.43
+    },
+    {
+      "id": "tt0117951",
+      "type": "movie",
+      "name": "Trainspotting",
+      "year": "1996",
+      "poster": "https://image.tmdb.org/t/p/w500/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+      "description": "Hilarious but harrowing, the film charts the disintegration of the friendship between Renton, Spud, Sick Boy, Tommy and Begbie as they proceed seemingly towards a psychotic, drug-fuelled self-destruction.",
+      "rating": 8.0
+    },
+    {
+      "id": "tt0062622",
+      "type": "movie",
+      "name": "2001: A Space Odyssey",
+      "year": "1968",
+      "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "description": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+      "rating": 8.064
+    },
+    {
+      "id": "tt0063049",
+      "type": "movie",
+      "name": "Head",
+      "year": "1968",
+      "poster": "https://image.tmdb.org/t/p/w500/pvMy7sTqOEr7faJzDE5UD0zUiHA.jpg",
+      "description": "In this surrealistic and free-form follow-up to the Monkees' television show, the band frolic their way through a series of musical set pieces and vignettes containing humor and anti-establishment social commentary.",
+      "rating": 6.2
+    },
+    {
+      "id": "tt0107688",
+      "type": "movie",
+      "name": "The Nightmare Before Christmas",
+      "year": "1993",
+      "poster": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "description": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+      "rating": 7.834
+    },
+    {
+      "id": "tt0120889",
+      "type": "movie",
+      "name": "What Dreams May Come",
+      "year": "1998",
+      "poster": "https://image.tmdb.org/t/p/w500/2gUfJKfJ6LwdqQebiAWuNzIWyp9.jpg",
+      "description": "Chris Nielsen dies to find himself in a heaven more amazing than he could have ever dreamed of. There is one thing missing: his wife. After he dies, his wife Annie killed herself and went to hell. Chris decides to risk eternity in Hades for the small chance that he will be able to bring her back to heaven.",
+      "rating": 7.205
+    },
+    {
+      "id": "tt0116683",
+      "type": "movie",
+      "name": "James and the Giant Peach",
+      "year": "1996",
+      "poster": "https://image.tmdb.org/t/p/w500/qUjArAMcCt2S3QJBb9CgVQu1MXs.jpg",
+      "description": "When the young orphan boy James spills a magic bag of crocodile tongues, he finds himself in possession of a giant peach that flies him away to strange lands.",
+      "rating": 6.578
+    },
+    {
+      "id": "tt1054606",
+      "type": "movie",
+      "name": "The Imaginarium of Doctor Parnassus",
+      "year": "2009",
+      "poster": "https://image.tmdb.org/t/p/w500/DtrqQHa0wT9AWrk2WA9beROJJx.jpg",
+      "description": "A travelling theatre company has more to it than meets the eye.",
+      "rating": 6.377
+    },
+    {
+      "id": "tt1211837",
+      "type": "movie",
+      "name": "Doctor Strange",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+      "description": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+      "rating": 7.419
+    },
+    {
+      "id": "tt0405296",
+      "type": "movie",
+      "name": "A Scanner Darkly",
+      "year": "2006",
+      "poster": "https://image.tmdb.org/t/p/w500/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+      "description": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+      "rating": 6.803
+    },
+    {
+      "id": "tt0032455",
+      "type": "movie",
+      "name": "Fantasia",
+      "year": "1940",
+      "poster": "https://image.tmdb.org/t/p/w500/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+      "description": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+      "rating": 7.353
+    },
+    {
+      "id": "tt0076929",
+      "type": "movie",
+      "name": "Wizards",
+      "year": "1977",
+      "poster": "https://image.tmdb.org/t/p/w500/jeAxoYepnVirGe0H7pmwviSZYul.jpg",
+      "description": "After the death of his mother, the evil mutant wizard Blackwolf discovers some long-lost military technologies. Full of ego and ambition, Blackwolf claims his mother's throne, assembles an army and sets out to brainwash and conquer Earth. Meanwhile, Blackwolf's gentle twin brother, the bearded and sage Avatar, calls upon his own magical abilities to foil Blackwolf's plans for world domination -- even if it means destroying his own flesh and blood.",
+      "rating": 6.2
+    },
+    {
+      "id": "tt0082509",
+      "type": "movie",
+      "name": "Heavy Metal",
+      "year": "1981",
+      "poster": "https://image.tmdb.org/t/p/w500/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
+      "description": "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+      "rating": 6.508
+    },
+    {
+      "id": "tt0816692",
+      "type": "movie",
+      "name": "Interstellar",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "rating": 8.46
+    },
+    {
+      "id": "tt0112389",
+      "type": "movie",
+      "name": "The Thief and the Cobbler",
+      "year": "1993",
+      "poster": "https://image.tmdb.org/t/p/w500/3OKtFuTxahr7hokPB9aO38qgOfc.jpg",
+      "description": "It is written among the limitless constellations of the celestial heavens, and  in the depths of the emerald seas, and upon every grain of sand in the vast  deserts, that the world which we see is an outward and visible dream, of an  inward and invisible reality ... Once upon a time there was a golden city. In  the center of the golden city, atop the tallest minaret, were three golden  balls. The ancients had prophesied that if the three golden balls were ever  taken away, harmony would yield to discord, and the city would fall to  destruction and death. But... the mystics had also foretold that the city might  be saved by the simplest soul with the smallest and simplest of things. In the  city there dwelt a lowly shoemaker, who was known as Tack the Cobbler. Also in  the city... existed a Thief, who shall be... nameless.",
+      "rating": 7.1
+    },
+    {
+      "id": "tt0083658",
+      "type": "movie",
+      "name": "Blade Runner",
+      "year": "1982",
+      "poster": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+      "rating": 7.941
+    },
+    {
+      "id": "tt2279373",
+      "type": "movie",
+      "name": "The SpongeBob Movie: Sponge Out of Water",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w500/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg",
+      "description": "Burger Beard is a pirate who is in search of the final page of a magical book that makes any evil plan he writes in it come true, which happens to be the Krabby Patty secret formula. When the entire city of Bikini Bottom is put in danger, SpongeBob, Patrick, Mr. Krabs, Squidward, Sandy, and Plankton need to go on a quest that takes them to the surface. In order to get back the recipe and save their city, the gang must retrieve the book and transform themselves into superheroes.",
+      "rating": 6.1
+    },
+    {
+      "id": "tt0114746",
+      "type": "movie",
+      "name": "Twelve Monkeys",
+      "year": "1995",
+      "poster": "https://image.tmdb.org/t/p/w500/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "description": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+      "rating": 7.6
+    },
+    {
+      "id": "tt1182345",
+      "type": "movie",
+      "name": "Moon",
+      "year": "2009",
+      "poster": "https://image.tmdb.org/t/p/w500/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg",
+      "description": "With only three weeks left in his three-year contract, Sam Bell is getting anxious to finally return to Earth. He is the only occupant of a Moon-based manufacturing facility along with his computer and assistant, GERTY. When he has an accident however, he awakens to find that he is not alone.",
+      "rating": 7.566
+    },
+    {
+      "id": "tt0063823",
+      "type": "movie",
+      "name": "Yellow Submarine",
+      "year": "1968",
+      "poster": "https://image.tmdb.org/t/p/w500/1pmeLKaLFNggcsAk5FiouIvo3ST.jpg",
+      "description": "The wicked Blue Meanies take over Pepperland, eliminating all color and music. As the only survivor, the Lord Admiral escapes in the yellow submarine and journeys to Liverpool to enlist the help of the Beatles.",
+      "rating": 7.1
+    },
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "name": "Coraline",
+      "year": "2009",
+      "poster": "https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "description": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+      "rating": 7.896
+    },
+    {
+      "id": "tt2333804",
+      "type": "movie",
+      "name": "The Zero Theorem",
+      "year": "2013",
+      "poster": "https://image.tmdb.org/t/p/w500/j2sEI9FOaJszidVatzIaaMPdLsm.jpg",
+      "description": "A computer hacker's goal to discover the reason for human existence continually finds his work interrupted thanks to the Management; this time, they send a teenager and lusty love interest to distract him.",
+      "rating": 6.103
+    },
+    {
+      "id": "tt0209958",
+      "type": "movie",
+      "name": "The Cell",
+      "year": "2000",
+      "poster": "https://image.tmdb.org/t/p/w500/kfYVxvDDAJoFq2knHUzAZP09pAc.jpg",
+      "description": "A psychotherapist journeys inside a comatose serial killer in the hopes of saving his latest victim.",
+      "rating": 6.278
+    },
+    {
+      "id": "tt0080360",
+      "type": "movie",
+      "name": "Altered States",
+      "year": "1980",
+      "poster": "https://image.tmdb.org/t/p/w500/1iZBJcFJFupnxrSCwQIrtVgsrkA.jpg",
+      "description": "A research scientist explores the boundaries and frontiers of consciousness. Using sensory deprivation and hallucinogenic mixtures from native American shamans, he explores these altered states of consciousness and finds that memory, time, and perhaps reality itself are states of mind.",
+      "rating": 6.724
+    },
+    {
+      "id": "tt0493393",
+      "type": "movie",
+      "name": "Ashes and Snow",
+      "year": "2005",
+      "poster": "https://image.tmdb.org/t/p/w500/os5iwmKFD2Q1b66zeBa8nkDOXkR.jpg",
+      "description": "Ashes and Snow, a film by Gregory Colbert, uses both still and movie cameras to explore extraordinary interactions between humans and animals. The 60-minute feature is a poetic narrative rather than a documentary. It aims to lift the natural and artificial barriers between humans and other species, dissolving the distance that exists between them.",
+      "rating": 7.269
+    },
+    {
+      "id": "tt0366780",
+      "type": "movie",
+      "name": "MirrorMask",
+      "year": "2005",
+      "poster": "https://image.tmdb.org/t/p/w500/itIJU3NKbdgScA1WPIxXzOlm0Uj.jpg",
+      "description": "In a fantasy world of opposing kingdoms, a 15-year old girl must find the fabled MirrorMask in order to save the kingdom and get home.",
+      "rating": 6.419
+    },
+    {
+      "id": "tt0084503",
+      "type": "movie",
+      "name": "Pink Floyd: The Wall",
+      "year": "1982",
+      "poster": "https://image.tmdb.org/t/p/w500/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+      "description": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+      "rating": 7.947
+    },
+    {
+      "id": "tt0133093",
+      "type": "movie",
+      "name": "The Matrix",
+      "year": "1999",
+      "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+      "description": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+      "rating": 8.231
+    },
+    {
+      "id": "tt0074486",
+      "type": "movie",
+      "name": "Eraserhead",
+      "year": "1977",
+      "poster": "https://image.tmdb.org/t/p/w500/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "description": "First-time father Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.",
+      "rating": 7.358
+    },
+    {
+      "id": "tt0043274",
+      "type": "movie",
+      "name": "Alice in Wonderland",
+      "year": "1951",
+      "poster": "https://image.tmdb.org/t/p/w500/20cvfwfaFqNbe9Fc3VEHJuPRxmn.jpg",
+      "description": "On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.",
+      "rating": 7.187
+    },
+    {
+      "id": "tt0091369",
+      "type": "movie",
+      "name": "Labyrinth",
+      "year": "1986",
+      "poster": "https://image.tmdb.org/t/p/w500/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg",
+      "description": "When Sarah is forced to babysit her half-brother Toby, she inadvertently summons the Goblin King and he whisks Toby away to his castle at the centre of a labyrinth. Sarah enters into a bargain with the Goblin King where she is given just thirteen hours to solve the labyrinth and rescue Toby, or else lose him forever.",
+      "rating": 7.272
+    },
+    {
+      "id": "tt0180093",
+      "type": "movie",
+      "name": "Requiem for a Dream",
+      "year": "2000",
+      "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "description": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+      "rating": 8.015
+    },
+    {
+      "id": "tt1821641",
+      "type": "movie",
+      "name": "The Congress",
+      "year": "2013",
+      "poster": "https://image.tmdb.org/t/p/w500/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg",
+      "description": "An aging, out-of-work actress accepts one last job, though the consequences of her decision affect her in ways she didn't consider.",
+      "rating": 6.403
+    },
+    {
+      "id": "tt1191111",
+      "type": "movie",
+      "name": "Enter the Void",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w500/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg",
+      "description": "This psychedelic tour of life after death is seen entirely from the point of view of Oscar, a young American drug dealer and addict living in Tokyo with his prostitute sister, Linda. When Oscar is killed by police during a bust gone bad, his spirit journeys from the past -- where he sees his parents before their deaths -- to the present -- where he witnesses his own autopsy -- and then to the future, where he looks out for his sister from beyond the grave.",
+      "rating": 7.301
+    },
+    {
+      "id": "tt0770802",
+      "type": "movie",
+      "name": "Samsara",
+      "year": "2011",
+      "poster": "https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg",
+      "description": "Filmed over nearly five years in twenty-five countries on five continents, and shot on seventy-millimetre film, Samsara transports us to the varied worlds of sacred grounds, disaster zones, industrial complexes, and natural wonders.",
+      "rating": 8.064
+    },
+    {
+      "id": "tt3262342",
+      "type": "movie",
+      "name": "Loving Vincent",
+      "year": "2017",
+      "poster": "https://image.tmdb.org/t/p/w500/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
+      "description": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there.",
+      "rating": 7.99
+    },
+    {
+      "id": "tt3040964",
+      "type": "movie",
+      "name": "The Jungle Book",
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/w500/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
+      "description": "A man-cub named Mowgli fostered by wolves. After a threat from the tiger Shere Khan, Mowgli is forced to flee the jungle, by which he embarks on a journey of self discovery with the help of the panther, Bagheera and the free-spirited bear, Baloo.",
+      "rating": 6.862
+    },
+    {
+      "id": "tt0120669",
+      "type": "movie",
+      "name": "Fear and Loathing in Las Vegas",
+      "year": "1998",
+      "poster": "https://image.tmdb.org/t/p/w500/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+      "description": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+      "rating": 7.212
+    },
+    {
+      "id": "tt0066921",
+      "type": "movie",
+      "name": "A Clockwork Orange",
+      "year": "1971",
+      "poster": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "description": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+      "rating": 8.186
+    },
+    {
+      "id": "tt0033152",
+      "type": "movie",
+      "name": "The Thief of Bagdad",
+      "year": "1940",
+      "poster": "https://image.tmdb.org/t/p/w500/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
+      "description": "When Prince Ahmad is blinded and cast out of Bagdad by the nefarious Jaffar, he joins forces with the scrappy thief Abu to win back his royal place, as well as the heart of a beautiful princess.",
+      "rating": 7.131
+    },
+    {
+      "id": "tt0064276",
+      "type": "movie",
+      "name": "Easy Rider",
+      "year": "1969",
+      "poster": "https://image.tmdb.org/t/p/w500/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
+      "description": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+      "rating": 7.062
+    },
+    {
+      "id": "tt0085809",
+      "type": "movie",
+      "name": "Koyaanisqatsi",
+      "year": "1983",
+      "poster": "https://image.tmdb.org/t/p/w500/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+      "description": "Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass.",
+      "rating": 7.868
+    },
+    {
+      "id": "tt0083791",
+      "type": "movie",
+      "name": "The Dark Crystal",
+      "year": "1982",
+      "poster": "https://image.tmdb.org/t/p/w500/6g1Kh73qQRosyhRJpL3euQpMxOE.jpg",
+      "description": "On another planet in the distant past, a Gelfling embarks on a quest to find the missing shard of a magical crystal and restore order to his world, before the grotesque race of Skeksis find and use the crystal for evil.",
+      "rating": 7.12
+    },
+    {
+      "id": "tt0120382",
+      "type": "movie",
+      "name": "The Truman Show",
+      "year": "1998",
+      "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "description": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+      "rating": 8.148
+    },
+    {
+      "id": "tt0068612",
+      "type": "movie",
+      "name": "Fritz the Cat",
+      "year": "1972",
+      "poster": "https://image.tmdb.org/t/p/w500/llgCW1Y99WO7DNiX3ZOncLJBIAm.jpg",
+      "description": "A swinging, hypocritical college student cat raises hell in a satirical vision of the 1960s.",
+      "rating": 6.168
+    },
+    {
+      "id": "tt0118929",
+      "type": "movie",
+      "name": "Dark City",
+      "year": "1998",
+      "poster": "https://image.tmdb.org/t/p/w500/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+      "description": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+      "rating": 7.332
+    },
+    {
+      "id": "tt1375666",
+      "type": "movie",
+      "name": "Inception",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w500/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+      "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+      "rating": 8.37
+    },
+    {
+      "id": "tt0446029",
+      "type": "movie",
+      "name": "Scott Pilgrim vs. the World",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w500/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+      "description": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
+      "rating": 7.489
+    },
+    {
+      "id": "tt0368667",
+      "type": "movie",
+      "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+      "year": "2003",
+      "poster": "https://image.tmdb.org/t/p/w500/n0K6mjU8aVnag2mi93FuvJsjZi.jpg",
+      "description": "Four talented alien musicians are kidnapped by a record producer who disguises them as humans. Shep, a space pilot in love with bass player Stella, follows them to Earth. Reprogrammed to forget their real identities and renamed The Crescendolls, the group quickly becomes a huge success playing soulless corporate pop. At a concert, Shep manages to free all the musicians except Stella, and the band sets out to rediscover who they really are — and to rescue Stella.",
+      "rating": 7.791
+    },
+    {
+      "id": "tt1371111",
+      "type": "movie",
+      "name": "Cloud Atlas",
+      "year": "2012",
+      "poster": "https://image.tmdb.org/t/p/w500/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
+      "description": "A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future.  Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.",
+      "rating": 6.887
+    },
+    {
+      "id": "tt0081633",
+      "type": "movie",
+      "name": "Time Bandits",
+      "year": "1981",
+      "poster": "https://image.tmdb.org/t/p/w500/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
+      "description": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
+      "rating": 6.607
+    },
+    {
+      "id": "tt0094721",
+      "type": "movie",
+      "name": "Beetlejuice",
+      "year": "1988",
+      "poster": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "description": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+      "rating": 7.372
+    },
+    {
+      "id": "tt0811080",
+      "type": "movie",
+      "name": "Speed Racer",
+      "year": "2008",
+      "poster": "https://image.tmdb.org/t/p/w500/fxRIpx9Op9h71q3tvuabx4GryyP.jpg",
+      "description": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities.",
+      "rating": 6.322
+    },
+    {
+      "id": "tt0209144",
+      "type": "movie",
+      "name": "Memento",
+      "year": "2000",
+      "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "description": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+      "rating": 8.2
+    },
+    {
+      "id": "tt0138704",
+      "type": "movie",
+      "name": "Pi",
+      "year": "1998",
+      "poster": "https://image.tmdb.org/t/p/w500/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+      "description": "A mathematical genius discovers a link between numbers and reality, and thus believes he can predict the future.",
+      "rating": 7.112
+    },
+    {
+      "id": "tt0103767",
+      "type": "movie",
+      "name": "Baraka",
+      "year": "1992",
+      "poster": "https://image.tmdb.org/t/p/w500/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg",
+      "description": "A paralysingly beautiful documentary with a global vision—an odyssey through landscape and time—that attempts to capture the essence of life.",
+      "rating": 8.238
+    },
+    {
+      "id": "tt0120907",
+      "type": "movie",
+      "name": "eXistenZ",
+      "year": "1999",
+      "poster": "https://image.tmdb.org/t/p/w500/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+      "description": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+      "rating": 6.8
+    },
+    {
+      "id": "tt0084827",
+      "type": "movie",
+      "name": "Tron",
+      "year": "1982",
+      "poster": "https://image.tmdb.org/t/p/w500/zwSFEczP7AzqugAHHIX3zHniT0t.jpg",
+      "description": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world...And becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
+      "rating": 6.645
+    },
+    {
+      "id": "tt1527186",
+      "type": "movie",
+      "name": "Melancholia",
+      "year": "2011",
+      "poster": "https://image.tmdb.org/t/p/w500/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+      "description": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+      "rating": 7.168
+    },
+    {
+      "id": "tt3327994",
+      "type": "movie",
+      "name": "Human",
+      "year": "2015",
+      "poster": "https://image.tmdb.org/t/p/w500/l02W63OGQKYugJrs3Uw8nA9gii4.jpg",
+      "description": "A collection of stories about and images of our world, offering an immersion to the core of what it means to be human. Through these stories full of love and happiness, as well as hatred and violence, it brings us face to face with the Other, making us reflect on our lives. From stories of everyday experiences to accounts of the most unbelievable lives, these poignant encounters share a rare sincerity and underline who we are – our darker side, but also what is most noble in us, and what is universal. Our Earth is shown at its most sublime through never-before-seen aerial images accompanied by soaring music, resulting in an ode to the beauty of the world, providing a moment to draw breath and for introspection. This film is a politically engaged work which allows us to embrace the human condition and to reflect on the meaning of our existence.",
+      "rating": 8.493
+    },
+    {
+      "id": "tt0338013",
+      "type": "movie",
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "year": "2004",
+      "poster": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "description": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+      "rating": 8.092
+    },
+    {
+      "id": "tt0032138",
+      "type": "movie",
+      "name": "The Wizard of Oz",
+      "year": "1939",
+      "poster": "https://image.tmdb.org/t/p/w500/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg",
+      "description": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
+      "rating": 7.6
+    },
+    {
+      "id": "tt1441395",
+      "type": "movie",
+      "name": "Under the Skin",
+      "year": "2014",
+      "poster": "https://image.tmdb.org/t/p/w500/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+      "description": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
+      "rating": 6.14
+    },
+    {
+      "id": "tt0328832",
+      "type": "movie",
+      "name": "The Animatrix",
+      "year": "2003",
+      "poster": "https://image.tmdb.org/t/p/w500/g52SOsTvdjzY8oPIn5znLJMzLHG.jpg",
+      "description": "Straight from the creators of the groundbreaking Matrix trilogy, this collection of short animated films from the world's leading anime directors fuses computer graphics and Japanese anime to provide the background of the Matrix universe and the conflict between man and machines. The shorts include Final Flight of the Osiris, The Second Renaissance, Kid's Story, Program, World Record, Beyond, A Detective Story and Matriculated.",
+      "rating": 7.195
+    },
+    {
+      "id": "tt0096438",
+      "type": "movie",
+      "name": "Who Framed Roger Rabbit",
+      "year": "1988",
+      "poster": "https://image.tmdb.org/t/p/w500/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "description": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+      "rating": 7.532
+    },
+    {
+      "id": "tt0246578",
+      "type": "movie",
+      "name": "Donnie Darko",
+      "year": "2001",
+      "poster": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "description": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+      "rating": 7.768
+    },
+    {
+      "id": "tt1340425",
+      "type": "movie",
+      "name": "DMT: The Spirit Molecule",
+      "year": "2010",
+      "poster": "https://image.tmdb.org/t/p/w500/8OwP5TRrnYSPPWDHzIuNFM5sH7B.jpg",
+      "description": "THE SPIRIT MOLECULE weaves an account of Dr. Rick Strassman's groundbreaking DMT research through a multifaceted approach to this intriguing hallucinogen found in the human brain and hundreds of plants, including the sacred Amazonian brew, ayahuasca. Utilizing interviews with a variety of experts to explain their thoughts and experiences with DMT, and ayahuasca, within their respective fields, and discussions with Strassman’s research volunteers, brings to life the awesome effects of this compound, and introduces us to far-reaching theories regarding its role in human consciousness.",
+      "rating": 6.1
+    },
+    {
+      "id": "tt0119346",
+      "type": "movie",
+      "name": "I Married a Strange Person!",
+      "year": "1998",
+      "poster": "https://image.tmdb.org/t/p/w500/jzslR1LbleGKRb9LU9EPX1BmSUz.jpg",
+      "description": "On their wedding night, Grant begins experiencing strange, supernatural powers and his bride Keri can't cope. Whenever Grant thinks of something, it becomes reality, yet he doesn't know where this magic came from. Things become more complicated when a megalomaniac CEO sends the military to capture Grant in order to weaponize his abilities.",
+      "rating": 7.2
+    },
+    {
+      "id": "tt0066601",
+      "type": "movie",
+      "name": "Zabriskie Point",
+      "year": "1970",
+      "poster": "https://image.tmdb.org/t/p/w500/uelo2oMg4fM51LAm4eEArEwOHXZ.jpg",
+      "description": "Anthropology student Daria, who's helping a property developer build a village in the Los Angeles desert, and dropout Mark, who's wanted by the authorities for allegedly killing a policeman during a student riot, accidentally encounter each other in Death Valley and soon begin an unrestrained romance.",
+      "rating": 7.077
+    },
+    {
+      "id": "tt0049223",
+      "type": "movie",
+      "name": "Forbidden Planet",
+      "year": "1956",
+      "poster": "https://image.tmdb.org/t/p/w500/aq0OQfRS7hDDI8vyD0ICbH9eguC.jpg",
+      "description": "Starship C57D travels to planet Altair 4 in search of the crew of spaceship \"Bellerophon,\" a scientific expedition that has been missing for twenty years. They find themselves unwelcome by the expedition's lone survivor and warned of destruction by an invisible force if they don't turn back immediately.",
+      "rating": 7.249
+    },
+    {
+      "id": "tt0096764",
+      "type": "movie",
+      "name": "The Adventures of Baron Munchausen",
+      "year": "1988",
+      "poster": "https://image.tmdb.org/t/p/w500/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
+      "description": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
+      "rating": 6.971
+    },
+    {
+      "id": "tt0060397",
+      "type": "movie",
+      "name": "Fantastic Voyage",
+      "year": "1966",
+      "poster": "https://image.tmdb.org/t/p/w500/eKNP9xdHlc2MeFZ73h1YL5tAfD8.jpg",
+      "description": "In order to save an assassinated scientist, a submarine and its crew are shrunk to microscopic size and injected into his bloodstream.",
+      "rating": 6.7
+    },
+    {
+      "id": "tt0096256",
+      "type": "movie",
+      "name": "They Live",
+      "year": "1988",
+      "poster": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "description": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+      "rating": 7.301
+    },
+    {
+      "id": "tt0139809",
+      "type": "movie",
+      "name": "The Thirteenth Floor",
+      "year": "1999",
+      "poster": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+      "description": "In Los Angeles, a wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
+      "rating": 7.069
+    },
+    {
+      "id": "tt0073812",
+      "type": "movie",
+      "name": "Tommy",
+      "year": "1975",
+      "poster": "https://image.tmdb.org/t/p/w500/pAImVnqBJwoFAKrcpAe17JjLGUs.jpg",
+      "description": "After a series of traumatic childhood events, a psychosomatically deaf, dumb and blind boy becomes a master pinball player and the object of a religious cult.",
+      "rating": 6.5
+    },
+    {
+      "id": "tt0072195",
+      "type": "movie",
+      "name": "Space Is the Place",
+      "year": "1974",
+      "poster": "https://image.tmdb.org/t/p/w500/5yPhG0iBQpBObowErVrZLPZzTq.jpg",
+      "description": "Sun Ra and his Solar Myth Arkestra return to Earth after several years in space. Ra proclaims himself \"the alter-destiny\", meets with inner-city youths and battles with the devil himself to save the black race.",
+      "rating": 5.881
+    },
+    {
+      "id": "tt0088323",
+      "type": "movie",
+      "name": "The NeverEnding Story",
+      "year": "1984",
+      "poster": "https://image.tmdb.org/t/p/w500/ddYCa91iDXfJCxaqSYzwi2fjfnl.jpg",
+      "description": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
+      "rating": 7.2
+    }
+  ]
+}

@@ -13,8 +13,8 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "TrippyWeird LARGE",
-      "name": "TrippyWeird LARGE",
+      "id": "TrippyWeird",
+      "name": "TrippyWeird",
       "extra": []
     },
     {
@@ -25,8 +25,14 @@
     },
     {
       "type": "movie",
-      "id": "Horror LARGE",
-      "name": "Horror LARGE",
+      "id": "Horror",
+      "name": "Horror",
+      "extra": []
+    },
+    {
+      "type": "movie",
+      "id": "Mindfuck",
+      "name": "Mindfuck",
       "extra": []
     }
   ],
@@ -35,9 +41,10 @@
   ],
   "catalogUrls": {
     "movie": {
-      "TrippyWeird LARGE": "./catalog/movie/TrippyWeird LARGE.json",
+      "TrippyWeird": "./catalog/movie/TrippyWeird.json",
       "Documentaries": "./catalog/movie/Documentaries.json",
-      "Horror LARGE": "./catalog/movie/Horror LARGE.json"
+      "Horror": "./catalog/movie/Horror.json",
+      "Mindfuck": "./catalog/movie/Mindfuck.json"
     }
   }
 }
